@@ -38,8 +38,8 @@ h1 {
   position:relative;
 }
 .userVideo {
-    height: 700px;
-    width:  700px;
+    height: 100%;
+    width:  100%;
     border:5px solid orange;
     position: absolute; 
 }
